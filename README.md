@@ -89,6 +89,6 @@ For more advanced topics, consider exploring:
 4 **Networking**: Develop multiplayer games or distributed applications.
 Happy coding!
 
-**Asst. Prof. Banyapon Poolsawas**
-**College of Creative Design and Entertainment Technology**, Dhurakij Pundit University, Thailand.
+- **Asst. Prof. Banyapon Poolsawas**
+- **College of Creative Design and Entertainment Technology**, Dhurakij Pundit University, Thailand.
  
