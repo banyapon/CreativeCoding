@@ -1,0 +1,89 @@
+﻿  ofApp.cpp
+D:\Coding\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+D:\Coding\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+D:\Coding\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+D:\Coding\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+D:\Coding\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+D:\Coding\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(18,2): warning C4996: 'ofSeedRandom': use ofSetRandomSeed() or of::random::seed() instead
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(84,35): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(84,73): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(84,111): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(85,35): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(85,73): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(85,111): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(87,35): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(87,73): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(87,111): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(88,35): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(88,73): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(88,111): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(90,35): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(90,73): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(90,111): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(91,35): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(91,73): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(91,111): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(93,35): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(93,73): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(93,111): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(94,35): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(94,73): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(94,111): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(100,37): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(100,77): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(101,37): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(101,77): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(102,37): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(102,77): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(103,37): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(103,77): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(108,30): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(108,63): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(108,96): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(109,30): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(109,63): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(109,96): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(111,31): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(111,65): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(112,31): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(112,65): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(113,31): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(113,65): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(114,31): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(114,65): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(118,30): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(118,63): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(118,96): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(119,30): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(119,63): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(119,96): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(121,31): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(121,65): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(122,31): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(122,65): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(123,31): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(123,65): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(124,31): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\src\ofApp.cpp(124,65): warning C4267: 'argument': conversion from 'size_t' to 'ofIndexType', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+  shapeofthing.vcxproj -> D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\bin\shapeofthing_debug.exe
+  
+  	                   2	D:\Coding\of_v0.12.0_vs_release\libs\fmod\lib\vs\x64\
+  	  *EXTRA File 		 6942208	D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\bin\FreeImage.dll
+  
+  	                   1	D:\Coding\of_v0.12.0_vs_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1826304	D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\bin\fmod.dll
+  	  *EXTRA File 		 2041856	D:\Github\CreativeCoding\github\CreativeCoding\shapeofthing\bin\fmodL.dll
