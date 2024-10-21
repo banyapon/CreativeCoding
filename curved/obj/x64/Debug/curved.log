@@ -1,0 +1,32 @@
+﻿  ofApp.cpp
+D:\Coding\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+D:\Coding\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+D:\Coding\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+D:\Coding\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+D:\Coding\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+D:\Coding\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+D:\Github\CreativeCoding\github\CreativeCoding\curved\src\ofApp.cpp(15,2): warning C4996: 'ofSeedRandom': use ofSetRandomSeed() or of::random::seed() instead
+D:\Github\CreativeCoding\github\CreativeCoding\curved\src\ofApp.cpp(30,3): warning C4996: 'ofRotateZ': Use ofRotateZDeg or ofRotateZRad
+D:\Github\CreativeCoding\github\CreativeCoding\curved\src\ofApp.cpp(31,3): warning C4996: 'ofRotateY': Use ofRotateYDeg or ofRotateYRad
+D:\Github\CreativeCoding\github\CreativeCoding\curved\src\ofApp.cpp(32,3): warning C4996: 'ofRotateX': Use ofRotateXDeg or ofRotateXRad
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+  curved.vcxproj -> D:\Github\CreativeCoding\github\CreativeCoding\curved\bin\curved_debug.exe
+  
+  	                   2	D:\Coding\of_v0.12.0_vs_release\libs\fmod\lib\vs\x64\
+  	  *EXTRA File 		 6942208	D:\Github\CreativeCoding\github\CreativeCoding\curved\bin\FreeImage.dll
+  
+  	                   1	D:\Coding\of_v0.12.0_vs_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1826304	D:\Github\CreativeCoding\github\CreativeCoding\curved\bin\fmod.dll
+  	  *EXTRA File 		 2041856	D:\Github\CreativeCoding\github\CreativeCoding\curved\bin\fmodL.dll
