@@ -1,0 +1,28 @@
+﻿  ofApp.cpp
+D:\Coding\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+D:\Coding\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+D:\Coding\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+D:\Coding\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+D:\Coding\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+D:\Coding\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+  WaveEffect.vcxproj -> D:\Coding\of_v0.12.0_vs_release\apps\myApps\WaveEffect\bin\WaveEffect_debug.exe
+  
+  	                   2	D:\Coding\of_v0.12.0_vs_release\libs\fmod\lib\vs\x64\
+  	  *EXTRA File 		 6942208	D:\Coding\of_v0.12.0_vs_release\apps\myApps\WaveEffect\bin\FreeImage.dll
+  
+  	                   1	D:\Coding\of_v0.12.0_vs_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1826304	D:\Coding\of_v0.12.0_vs_release\apps\myApps\WaveEffect\bin\fmod.dll
+  	  *EXTRA File 		 2041856	D:\Coding\of_v0.12.0_vs_release\apps\myApps\WaveEffect\bin\fmodL.dll
